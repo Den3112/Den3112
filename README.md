@@ -1,4 +1,4 @@
-# Hi there, I'm Denis Kushnirenko 👋
+# Hi there, I'm Denis 👋
 
 ### 🚀 Senior Full-Stack Engineer | Next.js 15 · TypeScript · React 19 · Node.js · AI Integration
 

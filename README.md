@@ -1,4 +1,4 @@
-# Hi there, I'm @Den3112 👋
+# Hi there, I'm DeNiS 👋
 
 ### 🚀 Senior Full-Stack Engineer | Next.js 15 · TypeScript · React 19 · Node.js · AI Integration
 

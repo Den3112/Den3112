@@ -45,6 +45,5 @@ I am a **Senior Full-Stack Engineer** with **5+ years** of production experience
 
 ## 📬 Get in Touch
 
-- 💼 **LinkedIn:** [linkedin.com/in/denis-kushnirenko](https://linkedin.com/in/denis-kushnirenko)
 - 💻 **GitHub:** [github.com/Den3112](https://github.com/Den3112)
 - 📍 **Location / Availability:** Remote EU (UTC+2 / UTC+3) · Open for B2B Contracts & Full-time Engineering Roles.

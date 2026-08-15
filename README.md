@@ -1,8 +1,7 @@
-# Hi there, I'm Denis 👋
+# Hi there, I'm @Den3112 👋
 
 ### 🚀 Senior Full-Stack Engineer | Next.js 15 · TypeScript · React 19 · Node.js · AI Integration
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/denis-kushnirenko)
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=flat&logo=github)](https://github.com/Den3112)
 [![Next.js 15](https://img.shields.io/badge/Next.js_15-000000?style=flat&logo=nextdotjs&logoColor=white)](https://nextjs.org)
 [![TypeScript](https://img.shields.io/badge/TypeScript-Strict-3178C6?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org)
@@ -11,11 +10,11 @@
 
 ---
 
-## ⚡ About Me
+## ⚡ Overview
 
-I am a **Senior Full-Stack Engineer** with **5+ years** of production experience designing, building, and optimizing high-performance web applications, scalable backend services, and AI-driven automation pipelines.
+Senior Full-Stack Engineer with **5+ years** of production experience designing, building, and optimizing high-performance web applications, scalable backend services, and AI-driven automation pipelines.
 
-- 🌐 **Frontend Mastery:** Next.js 15/16 (App Router, Server Actions), React 19, TypeScript (strict mode), Tailwind CSS, Radix UI, Zustand, Zod.
+- 🌐 **Frontend Architecture:** Next.js 15/16 (App Router, Server Actions), React 19, TypeScript (strict mode), Tailwind CSS, Radix UI, Zustand, Zod.
 - ⚙️ **Backend & Cloud Data:** Node.js, PostgreSQL, Supabase (Auth, RLS, Edge Functions), Redis, Python, PHP, Drizzle ORM, REST APIs.
 - 🤖 **AI & Agentic Workflows:** Multi-provider LLM API Gateways (Docker Compose), Agentic Orchestration pipelines, Prompt Engineering, n8n/Make.
 - 📈 **High-Load Performance:** Proven track record of cutting server resource loads by **~60%** and improving page speed by **~47%** across enterprise-scale networks.
@@ -43,7 +42,7 @@ I am a **Senior Full-Stack Engineer** with **5+ years** of production experience
 
 ---
 
-## 📬 Get in Touch
+## 📬 Contact & Availability
 
 - 💻 **GitHub:** [github.com/Den3112](https://github.com/Den3112)
-- 📍 **Location / Availability:** Remote EU (UTC+2 / UTC+3) · Open for B2B Contracts & Full-time Engineering Roles.
+- 📍 **Work Mode:** Remote EU (UTC+2 / UTC+3) · Open for B2B Contracts & Full-time Engineering Roles.
